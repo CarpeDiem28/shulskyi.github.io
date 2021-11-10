@@ -1,1 +1,1 @@
-# t.shulskyi.github.io
+# shulskyi.github.io
